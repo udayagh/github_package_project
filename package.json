@@ -11,7 +11,7 @@
     ],
     "publishConfig": {
       "@udayagh:registry": "https://npm.pkg.github.com"
-    }
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/udayagh/github_package_project.git"
